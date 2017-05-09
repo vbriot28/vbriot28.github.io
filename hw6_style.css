@@ -1,0 +1,7 @@
+/* Stylesheet Javascript homework#5 */
+p, div {
+  font-size: 18px;
+  font-style: italic;
+  line-height: 14px;
+  color: blue;
+}
