@@ -1,0 +1,661 @@
+"year","city","race","cnt","type","percentage"
+2006,"Bronx","Asian","45494","pop",3.3
+2006,"Bronx","Asian","309","stops",0.4
+2006,"Bronx","Black","426660","pop",31.1
+2006,"Bronx","Black","36172","stops",47.7
+2006,"Bronx","Hispanic","706167","pop",51.4
+2006,"Bronx","Hispanic","32492","stops",42.8
+2006,"Bronx","Native American","738","pop",0.1
+2006,"Bronx","Native American","129","stops",0.2
+2006,"Bronx","Other","16354","pop",1.1
+2006,"Bronx","Other","3976","stops",5.2
+2006,"Bronx","White","178342","pop",13
+2006,"Bronx","White","2761","stops",3.6
+2006,"Brooklyn","Asian","228085","pop",11.2
+2006,"Brooklyn","Asian","2200","stops",1.2
+2006,"Brooklyn","Black","853108","pop",41.9
+2006,"Brooklyn","Black","112816","stops",64.1
+2006,"Brooklyn","Hispanic","23742","pop",1.2
+2006,"Brooklyn","Hispanic","35141","stops",20
+2006,"Brooklyn","Native American","4267","pop",0.2
+2006,"Brooklyn","Native American","434","stops",0.2
+2006,"Brooklyn","Other","18579","pop",0.9
+2006,"Brooklyn","Other","7513","stops",4.3
+2006,"Brooklyn","White","908477","pop",44.6
+2006,"Brooklyn","White","17972","stops",10.2
+2006,"Manhattan","Asian","180256","pop",11.2
+2006,"Manhattan","Asian","2080","stops",1.7
+2006,"Manhattan","Black","230600","pop",14.3
+2006,"Manhattan","Black","62889","stops",52.2
+2006,"Manhattan","Hispanic","408712","pop",25.4
+2006,"Manhattan","Hispanic","38587","stops",32
+2006,"Manhattan","Native American","1482","pop",0.1
+2006,"Manhattan","Native American","213","stops",0.2
+2006,"Manhattan","Other","5869","pop",0.3
+2006,"Manhattan","Other","6390","stops",5.3
+2006,"Manhattan","White","784662","pop",48.7
+2006,"Manhattan","White","10405","stops",8.6
+2006,"New York","Asian","960429","pop",11.8
+2006,"New York","Asian","13288","stops",2.7
+2006,"New York","Black","1951814","pop",23.9
+2006,"New York","Black","260721","stops",53.5
+2006,"New York","Hispanic","2273051","pop",27.9
+2006,"New York","Hispanic","144552","stops",29.7
+2006,"New York","Native American","13537","pop",0.2
+2006,"New York","Native American","1818","stops",0.4
+2006,"New York","Other","89758","pop",1.1
+2006,"New York","Other","22068","stops",4.5
+2006,"New York","White","2861095","pop",35.1
+2006,"New York","White","45024","stops",9.2
+2006,"Queens","Asian","482262","pop",21.4
+2006,"Queens","Asian","8699","stops",7.6
+2006,"Queens","Black","419069","pop",18.6
+2006,"Queens","Black","48844","stops",42.5
+2006,"Queens","Hispanic","597773","pop",26.5
+2006,"Queens","Hispanic","38332","stops",33.3
+2006,"Queens","Native American","6644","pop",0.3
+2006,"Queens","Native American","1042","stops",0.9
+2006,"Queens","Other","48368","pop",2.1
+2006,"Queens","Other","4189","stops",3.6
+2006,"Queens","White","701059","pop",31.1
+2006,"Queens","White","13886","stops",12.1
+2006,"Staten Island","Asian","35768","pop",7.5
+2006,"Staten Island","Black","45572","pop",9.5
+2006,"Staten Island","Hispanic","71,154","pop",14.9
+2006,"Staten Island","Native American","561","pop",0.1
+2006,"Staten Island","Other","1671","pop",0.4
+2006,"Staten Island","White","322652","pop",67.6
+2007,"Bronx","Asian","47829","pop",3.5
+2007,"Bronx","Asian","366","stops",0.5
+2007,"Bronx","Black","430399","pop",31.3
+2007,"Bronx","Black","33532","stops",47.3
+2007,"Bronx","Hispanic","702,073","pop",51.1
+2007,"Bronx","Hispanic","30020","stops",42.3
+2007,"Bronx","Native American","3333","pop",0.2
+2007,"Bronx","Native American","162","stops",0.2
+2007,"Bronx","Other","11555","pop",0.9
+2007,"Bronx","Other","3865","stops",5.4
+2007,"Bronx","White","178470","pop",13
+2007,"Bronx","White","2991","stops",4.2
+2007,"Brooklyn","Asian","229668","pop",9.1
+2007,"Brooklyn","Asian","2033","stops",1.3
+2007,"Brooklyn","Black","854281","pop",33.8
+2007,"Brooklyn","Black","106309","stops",65.4
+2007,"Brooklyn","Hispanic","493,961","pop",19.5
+2007,"Brooklyn","Hispanic","31924","stops",19.6
+2007,"Brooklyn","Native American","5012","pop",0.2
+2007,"Brooklyn","Native American","383","stops",0.2
+2007,"Brooklyn","Other","15702","pop",0.6
+2007,"Brooklyn","Other","6033","stops",3.7
+2007,"Brooklyn","White","929426","pop",36.8
+2007,"Brooklyn","White","15938","stops",9.8
+2007,"Manhattan","Asian","177207","pop",10.9
+2007,"Manhattan","Asian","2191","stops",1.9
+2007,"Manhattan","Black","225716","pop",13.9
+2007,"Manhattan","Black","57240","stops",49
+2007,"Manhattan","Hispanic","400,498","pop",24.7
+2007,"Manhattan","Hispanic","40694","stops",34.9
+2007,"Manhattan","Native American","1994","pop",0.1
+2007,"Manhattan","Native American","286","stops",0.2
+2007,"Manhattan","Other","9580","pop",0.6
+2007,"Manhattan","Other","5324","stops",4.6
+2007,"Manhattan","White","805871","pop",49.7
+2007,"Manhattan","White","10973","stops",9.4
+2007,"New York","Asian","984700","pop",11.9
+2007,"New York","Asian","12901","stops",2.9
+2007,"New York","Black","1977970","pop",23.9
+2007,"New York","Black","237313","stops",52.6
+2007,"New York","Hispanic","2,269,972","pop",27.4
+2007,"New York","Hispanic","138031","stops",30.6
+2007,"New York","Native American","18064","pop",0.2
+2007,"New York","Native American","1697","stops",0.4
+2007,"New York","Other","76423","pop",1
+2007,"New York","Other","17567","stops",3.9
+2007,"New York","White","2947398","pop",35.6
+2007,"New York","White","43456","stops",9.6
+2007,"Queens","Asian","494201","pop",21.8
+2007,"Queens","Asian","8311","stops",8.3
+2007,"Queens","Black","420665","pop",18.5
+2007,"Queens","Black","40232","stops",40
+2007,"Queens","Hispanic","600,467","pop",26.4
+2007,"Queens","Hispanic","35393","stops",35.1
+2007,"Queens","Native American","7080","pop",0.3
+2007,"Queens","Native American","866","stops",0.9
+2007,"Queens","Other","38924","pop",1.8
+2007,"Queens","Other","2345","stops",2.3
+2007,"Queens","White","709001","pop",31.2
+2007,"Queens","White","13554","stops",13.5
+2007,"Staten Island","Asian","36765","pop",7.6
+2007,"Staten Island","Black","46853","pop",9.7
+2007,"Staten Island","Hispanic","72,973","pop",15.2
+2007,"Staten Island","Native American","661","pop",0.1
+2007,"Staten Island","Other","789","pop",0.2
+2007,"Staten Island","White","323573","pop",67.2
+2008,"Bronx","Asian","46753","pop",3.4
+2008,"Bronx","Asian","596","stops",0.7
+2008,"Bronx","Black","435116","pop",31.3
+2008,"Bronx","Black","39318","stops",46.6
+2008,"Bronx","Hispanic","719,596","pop",51.7
+2008,"Bronx","Hispanic","36812","stops",43.6
+2008,"Bronx","Native American","910","pop",0.1
+2008,"Bronx","Native American","210","stops",0.2
+2008,"Bronx","Other","13277","pop",0.8
+2008,"Bronx","Other","4863","stops",5.8
+2008,"Bronx","White","176252","pop",12.7
+2008,"Bronx","White","2600","stops",3.1
+2008,"Brooklyn","Asian","238611","pop",9.3
+2008,"Brooklyn","Asian","2661","stops",1.4
+2008,"Brooklyn","Black","853500","pop",33.4
+2008,"Brooklyn","Black","119622","stops",64.3
+2008,"Brooklyn","Hispanic","504,051","pop",19.7
+2008,"Brooklyn","Hispanic","41188","stops",22.1
+2008,"Brooklyn","Native American","4809","pop",0.2
+2008,"Brooklyn","Native American","479","stops",0.3
+2008,"Brooklyn","Other","12887","pop",0.5
+2008,"Brooklyn","Other","5219","stops",2.8
+2008,"Brooklyn","White","942740","pop",36.9
+2008,"Brooklyn","White","16848","stops",9.1
+2008,"Manhattan","Asian","179128","pop",11
+2008,"Manhattan","Asian","2629","stops",2.2
+2008,"Manhattan","Black","223834","pop",13.7
+2008,"Manhattan","Black","60601","stops",51.3
+2008,"Manhattan","Hispanic","400,699","pop",24.5
+2008,"Manhattan","Hispanic","39755","stops",33.7
+2008,"Manhattan","Native American","1768","pop",0.1
+2008,"Manhattan","Native American","297","stops",0.3
+2008,"Manhattan","Other","5420","pop",0.3
+2008,"Manhattan","Other","3565","stops",3
+2008,"Manhattan","White","823946","pop",50.4
+2008,"Manhattan","White","11214","stops",9.5
+2008,"New York","Asian","1004467","pop",12
+2008,"New York","Asian","16021","stops",3.2
+2008,"New York","Black","1980953","pop",23.7
+2008,"New York","Black","264287","stops",52.4
+2008,"New York","Hispanic","2,313,400","pop",27.7
+2008,"New York","Hispanic","162011","stops",32.1
+2008,"New York","Native American","16571","pop",0.2
+2008,"New York","Native American","1924","stops",0.4
+2008,"New York","Other","76051","pop",0.9
+2008,"New York","Other","16035","stops",3.2
+2008,"New York","White","2972268","pop",35.5
+2008,"New York","White","44391","stops",8.8
+2008,"Queens","Asian","503052","pop",21.9
+2008,"Queens","Asian","10135","stops",8.7
+2008,"Queens","Black","420768","pop",18.4
+2008,"Queens","Black","44746","stops",38.5
+2008,"Queens","Hispanic","612,873","pop",26.7
+2008,"Queens","Hispanic","44256","stops",38.1
+2008,"Queens","Native American","8598","pop",0.4
+2008,"Queens","Native American","938","stops",0.8
+2008,"Queens","Other","41441","pop",1.8
+2008,"Queens","Other","2388","stops",2.1
+2008,"Queens","White","706274","pop",30.8
+2008,"Queens","White","13729","stops",11.8
+2008,"Staten Island","Asian","37307","pop",7.7
+2008,"Staten Island","Black","46240","pop",9.5
+2008,"Staten Island","Hispanic","76,181","pop",15.6
+2008,"Staten Island","Native American","480","pop",0.1
+2008,"Staten Island","Other","3006","pop",0.6
+2008,"Staten Island","White","324193","pop",66.5
+2009,"Bronx","Asian","49029","pop",3.5
+2009,"Bronx","Asian","691","stops",0.7
+2009,"Bronx","Black","437379","pop",31.3
+2009,"Bronx","Black","45072","stops",47
+2009,"Bronx","Hispanic","726,265","pop",52
+2009,"Bronx","Hispanic","42041","stops",43.9
+2009,"Bronx","Native American","2534","pop",0.2
+2009,"Bronx","Native American","258","stops",0.3
+2009,"Bronx","Other","10873","pop",0.7
+2009,"Bronx","Other","4708","stops",4.9
+2009,"Bronx","White","171208","pop",12.3
+2009,"Bronx","White","3094","stops",3.2
+2009,"Brooklyn","Asian","247796","pop",9.7
+2009,"Brooklyn","Asian","2898","stops",1.4
+2009,"Brooklyn","Black","847275","pop",33
+2009,"Brooklyn","Black","140617","stops",68
+2009,"Brooklyn","Hispanic","502,546","pop",19.6
+2009,"Brooklyn","Hispanic","41836","stops",20.2
+2009,"Brooklyn","Native American","2366","pop",0.1
+2009,"Brooklyn","Native American","587","stops",0.3
+2009,"Brooklyn","Other","7615","pop",0.2
+2009,"Brooklyn","Other","4010","stops",1.9
+2009,"Brooklyn","White","959499","pop",37.4
+2009,"Brooklyn","White","16702","stops",8.1
+2009,"Manhattan","Asian","171128","pop",10.5
+2009,"Manhattan","Asian","2214","stops",1.9
+2009,"Manhattan","Black","216227","pop",13.3
+2009,"Manhattan","Black","61667","stops",53.6
+2009,"Manhattan","Hispanic","387,678","pop",23.8
+2009,"Manhattan","Hispanic","38824","stops",33.8
+2009,"Manhattan","Native American","1399","pop",0.1
+2009,"Manhattan","Native American","252","stops",0.2
+2009,"Manhattan","Other","6747","pop",0.4
+2009,"Manhattan","Other","2582","stops",2.2
+2009,"Manhattan","White","845875","pop",51.9
+2009,"Manhattan","White","9472","stops",8.2
+2009,"New York","Asian","1018620","pop",12.1
+2009,"New York","Asian","16453","stops",3
+2009,"New York","Black","1966204","pop",23.4
+2009,"New York","Black","297613","stops",54.3
+2009,"New York","Hispanic","2,315,041","pop",27.6
+2009,"New York","Hispanic","173571","stops",31.7
+2009,"New York","Native American","14611","pop",0.2
+2009,"New York","Native American","2181","stops",0.4
+2009,"New York","Other","62684","pop",0.8
+2009,"New York","Other","14026","stops",2.6
+2009,"New York","White","3014720","pop",35.9
+2009,"New York","White","44478","stops",8.1
+2009,"Queens","Asian","515370","pop",22.3
+2009,"Queens","Asian","10650","stops",8.1
+2009,"Queens","Black","414587","pop",18
+2009,"Queens","Black","50257","stops",38.4
+2009,"Queens","Hispanic","620,205","pop",26.9
+2009,"Queens","Hispanic","50870","stops",38.9
+2009,"Queens","Native American","8181","pop",0.4
+2009,"Queens","Native American","1084","stops",0.8
+2009,"Queens","Other","36924","pop",1.6
+2009,"Queens","Other","2726","stops",2.1
+2009,"Queens","White","711446","pop",30.8
+2009,"Queens","White","15210","stops",11.6
+2009,"Staten Island","Asian","36746","pop",7.5
+2009,"Staten Island","Black","47779","pop",9.7
+2009,"Staten Island","Hispanic","78,347","pop",15.9
+2009,"Staten Island","Native American","152","pop",0
+2009,"Staten Island","Other","641","pop",0.2
+2009,"Staten Island","White","328065","pop",66.7
+2010,"Bronx","Asian","47649","pop",3.4
+2010,"Bronx","Asian","820","stops",0.7
+2010,"Bronx","Black","431980","pop",31.2
+2010,"Bronx","Black","53987","stops",48.3
+2010,"Bronx","Hispanic","743,681","pop",53.6
+2010,"Bronx","Hispanic","48226","stops",43.1
+2010,"Bronx","Native American","2736","pop",0.2
+2010,"Bronx","Native American","274","stops",0.2
+2010,"Bronx","Other","5581","pop",0.4
+2010,"Bronx","Other","5201","stops",4.7
+2010,"Bronx","White","155030","pop",11.2
+2010,"Bronx","White","3303","stops",3
+2010,"Brooklyn","Asian","268010","pop",10.7
+2010,"Brooklyn","Asian","3487","stops",1.8
+2010,"Brooklyn","Black","821110","pop",32.7
+2010,"Brooklyn","Black","129397","stops",66.7
+2010,"Brooklyn","Hispanic","499,418","pop",19.9
+2010,"Brooklyn","Hispanic","41103","stops",21.2
+2010,"Brooklyn","Native American","4228","pop",0.2
+2010,"Brooklyn","Native American","495","stops",0.3
+2010,"Brooklyn","Other","7370","pop",0.3
+2010,"Brooklyn","Other","2814","stops",1.5
+2010,"Brooklyn","White","908204","pop",36.2
+2010,"Brooklyn","White","16650","stops",8.6
+2010,"Manhattan","Asian","181927","pop",11.5
+2010,"Manhattan","Asian","2515","stops",2.1
+2010,"Manhattan","Black","209673","pop",13.2
+2010,"Manhattan","Black","64453","stops",53.2
+2010,"Manhattan","Hispanic","405,499","pop",25.6
+2010,"Manhattan","Hispanic","39022","stops",32.2
+2010,"Manhattan","Native American","2151","pop",0.1
+2010,"Manhattan","Native American","329","stops",0.3
+2010,"Manhattan","Other","6101","pop",0.4
+2010,"Manhattan","Other","3412","stops",2.8
+2010,"Manhattan","White","781347","pop",49.2
+2010,"Manhattan","White","11377","stops",9.4
+2010,"New York","Asian","1065885","pop",13
+2010,"New York","Asian","19388","stops",3.4
+2010,"New York","Black","1915781","pop",23.4
+2010,"New York","Black","303658","stops",53.3
+2010,"New York","Hispanic","2,346,826","pop",28.7
+2010,"New York","Hispanic","183411","stops",32.2
+2010,"New York","Native American","14044","pop",0.2
+2010,"New York","Native American","2489","stops",0.4
+2010,"New York","Other","62497","pop",0.7
+2010,"New York","Other","14751","stops",2.6
+2010,"New York","White","2779867","pop",34
+2010,"New York","White","46078","stops",8.1
+2010,"Queens","Asian","533821","pop",23.9
+2010,"Queens","Asian","12566","stops",8.8
+2010,"Queens","Black","405101","pop",18.1
+2010,"Queens","Black","55821","stops",39.1
+2010,"Queens","Hispanic","616,676","pop",27.6
+2010,"Queens","Hispanic","55060","stops",38.5
+2010,"Queens","Native American","4479","pop",0.2
+2010,"Queens","Native American","1391","stops",1
+2010,"Queens","Other","43285","pop",2
+2010,"Queens","Other","3324","stops",2.3
+2010,"Queens","White","630479","pop",28.2
+2010,"Queens","White","14748","stops",10.3
+2010,"Staten Island","Asian","36986","pop",7.9
+2010,"Staten Island","Black","45489","pop",9.7
+2010,"Staten Island","Hispanic","81,552","pop",17.4
+2010,"Staten Island","Native American","458","pop",0.1
+2010,"Staten Island","Other","433","pop",0.1
+2010,"Staten Island","White","304445","pop",64.8
+2011,"Bronx","Asian","48190","pop",3.5
+2011,"Bronx","Asian","1125","stops",0.8
+2011,"Bronx","Black","425409","pop",30.6
+2011,"Bronx","Black","64232","stops",47.7
+2011,"Bronx","Hispanic","748,438","pop",53.8
+2011,"Bronx","Hispanic","60636","stops",45
+2011,"Bronx","Native American","3868","pop",0.3
+2011,"Bronx","Native American","340","stops",0.3
+2011,"Bronx","Other","8639","pop",0.5
+2011,"Bronx","Other","4187","stops",3.1
+2011,"Bronx","White","157458","pop",11.3
+2011,"Bronx","White","4090","stops",3
+2011,"Brooklyn","Asian","272673","pop",10.8
+2011,"Brooklyn","Asian","4652","stops",2.1
+2011,"Brooklyn","Black","824979","pop",32.6
+2011,"Brooklyn","Black","143307","stops",63.2
+2011,"Brooklyn","Hispanic","506,552","pop",20
+2011,"Brooklyn","Hispanic","53370","stops",23.5
+2011,"Brooklyn","Native American","4887","pop",0.2
+2011,"Brooklyn","Native American","778","stops",0.3
+2011,"Brooklyn","Other","8314","pop",0.3
+2011,"Brooklyn","Other","5125","stops",2.3
+2011,"Brooklyn","White","915240","pop",36.1
+2011,"Brooklyn","White","19460","stops",8.6
+2011,"Manhattan","Asian","180756","pop",11.3
+2011,"Manhattan","Asian","3152","stops",2.3
+2011,"Manhattan","Black","215052","pop",13.4
+2011,"Manhattan","Black","71875","stops",51.4
+2011,"Manhattan","Hispanic","410,681","pop",25.6
+2011,"Manhattan","Hispanic","46956","stops",33.6
+2011,"Manhattan","Native American","2175","pop",0.1
+2011,"Manhattan","Native American","418","stops",0.3
+2011,"Manhattan","Other","8694","pop",0.6
+2011,"Manhattan","Other","3935","stops",2.8
+2011,"Manhattan","White","784590","pop",49
+2011,"Manhattan","White","13553","stops",9.7
+2011,"New York","Asian","1071293","pop",13
+2011,"New York","Asian","23524","stops",3.6
+2011,"New York","Black","1926637","pop",23.4
+2011,"New York","Black","340581","stops",52.2
+2011,"New York","Hispanic","2,373,304","pop",28.8
+2011,"New York","Hispanic","217725","stops",33.4
+2011,"New York","Native American","15919","pop",0.2
+2011,"New York","Native American","2780","stops",0.4
+2011,"New York","Other","63143","pop",0.7
+2011,"New York","Other","16262","stops",2.5
+2011,"New York","White","2794614","pop",33.9
+2011,"New York","White","51368","stops",7.9
+2011,"Queens","Asian","535309","pop",23.8
+2011,"Queens","Asian","14595","stops",9.7
+2011,"Queens","Black","411556","pop",18.3
+2011,"Queens","Black","61167","stops",40.5
+2011,"Queens","Hispanic","625,016","pop",27.8
+2011,"Queens","Hispanic","56763","stops",37.6
+2011,"Queens","Native American","4849","pop",0.2
+2011,"Queens","Native American","1244","stops",0.8
+2011,"Queens","Other","37344","pop",1.7
+2011,"Queens","Other","3015","stops",2
+2011,"Queens","White","633773","pop",28.2
+2011,"Queens","White","14265","stops",9.4
+2011,"Staten Island","Asian","37393","pop",7.9
+2011,"Staten Island","Black","47548","pop",10.1
+2011,"Staten Island","Hispanic","82,617","pop",17.6
+2011,"Staten Island","Native American","156","pop",0
+2011,"Staten Island","Other","453","pop",0.1
+2011,"Staten Island","White","302300","pop",64.3
+2012,"Bronx","Asian","51633","pop",3.7
+2012,"Bronx","Asian","839","stops",0.8
+2012,"Bronx","Black","426853","pop",30.3
+2012,"Bronx","Black","49559","stops",48.9
+2012,"Bronx","Hispanic","764,609","pop",54.3
+2012,"Bronx","Hispanic","44907","stops",44.3
+2012,"Bronx","Native American","2063","pop",0.1
+2012,"Bronx","Native American","324","stops",0.3
+2012,"Bronx","Other","11535","pop",0.8
+2012,"Bronx","Other","2306","stops",2.3
+2012,"Bronx","White","151780","pop",10.8
+2012,"Bronx","White","3349","stops",3.3
+2012,"Brooklyn","Asian","286030","pop",11.1
+2012,"Brooklyn","Asian","3724","stops",2
+2012,"Brooklyn","Black","829695","pop",32.3
+2012,"Brooklyn","Black","121730","stops",64.9
+2012,"Brooklyn","Hispanic","507,552","pop",19.8
+2012,"Brooklyn","Hispanic","39958","stops",21.3
+2012,"Brooklyn","Native American","3434","pop",0.1
+2012,"Brooklyn","Native American","592","stops",0.3
+2012,"Brooklyn","Other","8033","pop",0.4
+2012,"Brooklyn","Other","3425","stops",1.8
+2012,"Brooklyn","White","930891","pop",36.3
+2012,"Brooklyn","White","18192","stops",9.7
+2012,"Manhattan","Asian","188161","pop",11.6
+2012,"Manhattan","Asian","2488","stops",2.3
+2012,"Manhattan","Black","216984","pop",13.4
+2012,"Manhattan","Black","57134","stops",52.2
+2012,"Manhattan","Hispanic","417,471","pop",25.8
+2012,"Manhattan","Hispanic","36274","stops",33.1
+2012,"Manhattan","Native American","1679","pop",0.1
+2012,"Manhattan","Native American","327","stops",0.3
+2012,"Manhattan","Other","7774","pop",0.5
+2012,"Manhattan","Other","2551","stops",2.3
+2012,"Manhattan","White","787020","pop",48.6
+2012,"Manhattan","White","10763","stops",9.8
+2012,"New York","Asian","1112835","pop",13.3
+2012,"New York","Asian","16743","stops",3.3
+2012,"New York","Black","1929102","pop",23.1
+2012,"New York","Black","276013","stops",54.3
+2012,"New York","Hispanic","2,406,890","pop",28.9
+2012,"New York","Hispanic","160831","stops",31.6
+2012,"New York","Native American","12999","pop",0.2
+2012,"New York","Native American","2182","stops",0.4
+2012,"New York","Other","78616","pop",1
+2012,"New York","Other","9660","stops",1.9
+2012,"New York","White","2796253","pop",33.5
+2012,"New York","White","43042","stops",8.5
+2012,"Queens","Asian","553230","pop",24.3
+2012,"Queens","Asian","9692","stops",8.8
+2012,"Queens","Black","406727","pop",17.9
+2012,"Queens","Black","47590","stops",43.3
+2012,"Queens","Hispanic","634,077","pop",27.9
+2012,"Queens","Hispanic","39692","stops",36.1
+2012,"Queens","Native American","5533","pop",0.2
+2012,"Queens","Native American","939","stops",0.9
+2012,"Queens","Other","49540","pop",2.3
+2012,"Queens","Other","1378","stops",1.3
+2012,"Queens","White","623664","pop",27.4
+2012,"Queens","White","10738","stops",9.8
+2012,"Staten Island","Asian","36896","pop",7.8
+2012,"Staten Island","Black","45803","pop",9.7
+2012,"Staten Island","Hispanic","83,181","pop",17.7
+2012,"Staten Island","Native American","309","pop",0.1
+2012,"Staten Island","Other","2045","pop",0.4
+2012,"Staten Island","White","302495","pop",64.3
+2013,"Bronx","Asian","53119","pop",3.7
+2013,"Bronx","Asian","227","stops",0.9
+2013,"Bronx","Black","428696","pop",30.2
+2013,"Bronx","Black","13129","stops",52.1
+2013,"Bronx","Hispanic","774,778","pop",54.6
+2013,"Bronx","Hispanic","10404","stops",41.3
+2013,"Bronx","Native American","3412","pop",0.2
+2013,"Bronx","Native American","75","stops",0.3
+2013,"Bronx","Other","8557","pop",0.7
+2013,"Bronx","Other","450","stops",1.8
+2013,"Bronx","White","150170","pop",10.6
+2013,"Bronx","White","923","stops",3.7
+2013,"Brooklyn","Asian","297736","pop",11.5
+2013,"Brooklyn","Asian","1877","stops",2.6
+2013,"Brooklyn","Black","826330","pop",31.9
+2013,"Brooklyn","Black","45299","stops",62.9
+2013,"Brooklyn","Hispanic","507,880","pop",19.6
+2013,"Brooklyn","Hispanic","15070","stops",20.9
+2013,"Brooklyn","Native American","5635","pop",0.2
+2013,"Brooklyn","Native American","249","stops",0.3
+2013,"Brooklyn","Other","12812","pop",0.5
+2013,"Brooklyn","Other","1056","stops",1.5
+2013,"Brooklyn","White","941757","pop",36.3
+2013,"Brooklyn","White","8416","stops",11.7
+2013,"Manhattan","Asian","191620","pop",11.8
+2013,"Manhattan","Asian","795","stops",2
+2013,"Manhattan","Black","214041","pop",13.2
+2013,"Manhattan","Black","19556","stops",49.2
+2013,"Manhattan","Hispanic","419,398","pop",25.8
+2013,"Manhattan","Hispanic","14584","stops",36.7
+2013,"Manhattan","Native American","2598","pop",0.2
+2013,"Manhattan","Native American","123","stops",0.3
+2013,"Manhattan","Other","11322","pop",0.6
+2013,"Manhattan","Other","799","stops",2
+2013,"Manhattan","White","787180","pop",48.4
+2013,"Manhattan","White","3908","stops",9.8
+2013,"New York","Asian","1153555","pop",13.7
+2013,"New York","Asian","6748","stops",3.7
+2013,"New York","Black","1925855","pop",22.9
+2013,"New York","Black","100793","stops",55.4
+2013,"New York","Hispanic","2,428,756","pop",28.9
+2013,"New York","Hispanic","53227","stops",29.2
+2013,"New York","Native American","17577","pop",0.2
+2013,"New York","Native American","798","stops",0.4
+2013,"New York","Other","77904","pop",1
+2013,"New York","Other","2753","stops",1.5
+2013,"New York","White","2802189","pop",33.3
+2013,"New York","White","17766","stops",9.8
+2013,"Queens","Asian","576164","pop",25.1
+2013,"Queens","Asian","3849","stops",8.5
+2013,"Queens","Black","409352","pop",17.9
+2013,"Queens","Black","22809","stops",50.5
+2013,"Queens","Hispanic","642,259","pop",28
+2013,"Queens","Hispanic","13169","stops",29.2
+2013,"Queens","Native American","1050","pop",0
+2013,"Queens","Native American","351","stops",0.8
+2013,"Queens","Other","42230","pop",1.9
+2013,"Queens","Other","448","stops",1
+2013,"Queens","White","621204","pop",27.1
+2013,"Queens","White","4519","stops",10
+2013,"Staten Island","Asian","37755","pop",8
+2013,"Staten Island","Black","46572","pop",9.9
+2013,"Staten Island","Hispanic","84,441","pop",17.9
+2013,"Staten Island","Native American","858","pop",0.2
+2013,"Staten Island","Other","1650","pop",0.2
+2013,"Staten Island","White","301344","pop",63.8
+2014,"Bronx","Asian","55207","pop",3.8
+2014,"Bronx","Asian","41","stops",0.6
+2014,"Bronx","Black","432033","pop",30
+2014,"Bronx","Black","3305","stops",48.6
+2014,"Bronx","Hispanic","788,575","pop",54.8
+2014,"Bronx","Hispanic","3072","stops",45.2
+2014,"Bronx","Native American","4313","pop",0.3
+2014,"Bronx","Native American","16","stops",0.2
+2014,"Bronx","Other","9572","pop",0.8
+2014,"Bronx","Other","154","stops",2.3
+2014,"Bronx","White","148460","pop",10.3
+2014,"Bronx","White","209","stops",3.1
+2014,"Brooklyn","Asian","313714","pop",12
+2014,"Brooklyn","Asian","339","stops",2.6
+2014,"Brooklyn","Black","831057","pop",31.7
+2014,"Brooklyn","Black","8886","stops",67
+2014,"Brooklyn","Hispanic","512,181","pop",19.5
+2014,"Brooklyn","Hispanic","2574","stops",19.4
+2014,"Brooklyn","Native American","3595","pop",0.1
+2014,"Brooklyn","Native American","23","stops",0.2
+2014,"Brooklyn","Other","9978","pop",0.4
+2014,"Brooklyn","Other","167","stops",1.3
+2014,"Brooklyn","White","951463","pop",36.3
+2014,"Brooklyn","White","1274","stops",9.6
+2014,"Manhattan","Asian","197674","pop",11.5
+2014,"Manhattan","Asian","148","stops",2.1
+2014,"Manhattan","Black","212342","pop",12.3
+2014,"Manhattan","Black","3617","stops",50.3
+2014,"Manhattan","Hispanic","512,181","pop",29.7
+2014,"Manhattan","Hispanic","2342","stops",32.6
+2014,"Manhattan","Native American","1956","pop",0.1
+2014,"Manhattan","Native American","14","stops",0.2
+2014,"Manhattan","Other","8137","pop",0.5
+2014,"Manhattan","Other","243","stops",3.4
+2014,"Manhattan","White","792458","pop",45.9
+2014,"Manhattan","White","823","stops",11.5
+2014,"New York","Asian","1194652","pop",14.1
+2014,"New York","Asian","2205","stops",5.4
+2014,"New York","Black","1939522","pop",22.8
+2014,"New York","Black","21749","stops",53.7
+2014,"New York","Hispanic","2,460,898","pop",29
+2014,"New York","Hispanic","11566","stops",28.6
+2014,"New York","Native American","15807","pop",0.2
+2014,"New York","Native American","175","stops",0.4
+2014,"New York","Other","71959","pop",0.8
+2014,"New York","Other","680","stops",1.7
+2014,"New York","White","2808241","pop",33.1
+2014,"New York","White","4132","stops",10.2
+2014,"Queens","Asian","591668","pop",27.1
+2014,"Queens","Asian","1677","stops",12.6
+2014,"Queens","Black","415196","pop",19
+2014,"Queens","Black","5941","stops",44.8
+2014,"Queens","Hispanic","512,181","pop",23.4
+2014,"Queens","Hispanic","3578","stops",27
+2014,"Queens","Native American","5213","pop",0.2
+2014,"Queens","Native American","122","stops",0.9
+2014,"Queens","Other","45323","pop",2.2
+2014,"Queens","Other","116","stops",0.9
+2014,"Queens","White","614929","pop",28.1
+2014,"Queens","White","1826","stops",13.8
+2014,"Staten Island","Asian","38431","pop",8.1
+2014,"Staten Island","Black","44118","pop",9.3
+2014,"Staten Island","Hispanic","85,603","pop",18.1
+2014,"Staten Island","Native American","712","pop",0.2
+2014,"Staten Island","Other","731","pop",0.1
+2014,"Staten Island","White","303665","pop",64.2
+2015,"Bronx","Asian","54065","pop",3.7
+2015,"Bronx","Asian","21","stops",0.4
+2015,"Bronx","Black","438834","pop",30.2
+2015,"Bronx","Black","2423","stops",51.2
+2015,"Bronx","Hispanic","802,221","pop",55.1
+2015,"Bronx","Hispanic","1993","stops",42.1
+2015,"Bronx","Native American","3054","pop",0.2
+2015,"Bronx","Native American","12","stops",0.3
+2015,"Bronx","Other","7907","pop",0.5
+2015,"Bronx","Other","79","stops",1.7
+2015,"Bronx","White","149363","pop",10.3
+2015,"Bronx","White","203","stops",4.3
+2015,"Brooklyn","Asian","324479","pop",12.3
+2015,"Brooklyn","Asian","158","stops",2.5
+2015,"Brooklyn","Black","818897","pop",31.1
+2015,"Brooklyn","Black","4220","stops",66.7
+2015,"Brooklyn","Hispanic","513,242","pop",19.5
+2015,"Brooklyn","Hispanic","1224","stops",19.3
+2015,"Brooklyn","Native American","4898","pop",0.2
+2015,"Brooklyn","Native American","10","stops",0.2
+2015,"Brooklyn","Other","13001","pop",0.4
+2015,"Brooklyn","Other","92","stops",1.5
+2015,"Brooklyn","White","962218","pop",36.5
+2015,"Brooklyn","White","624","stops",9.9
+2015,"Manhattan","Asian","206859","pop",12.6
+2015,"Manhattan","Asian","81","stops",2.1
+2015,"Manhattan","Black","213470","pop",13
+2015,"Manhattan","Black","2170","stops",55.7
+2015,"Manhattan","Hispanic","426,894","pop",26
+2015,"Manhattan","Hispanic","1190","stops",30.5
+2015,"Manhattan","Native American","1653","pop",0.1
+2015,"Manhattan","Native American","11","stops",0.3
+2015,"Manhattan","Other","5189","pop",0.2
+2015,"Manhattan","Other","47","stops",1.2
+2015,"Manhattan","White","790453","pop",48.1
+2015,"Manhattan","White","399","stops",10.2
+2015,"New York","Asian","1230462","pop",14.4
+2015,"New York","Asian","1077","stops",5.2
+2015,"New York","Black","1931653","pop",22.6
+2015,"New York","Black","11051","stops",53.5
+2015,"New York","Hispanic","2,485,125","pop",29.1
+2015,"New York","Hispanic","6143","stops",29.8
+2015,"New York","Native American","14184","pop",0.2
+2015,"New York","Native American","73","stops",0.4
+2015,"New York","Other","73215","pop",0.8
+2015,"New York","Other","285","stops",1.4
+2015,"New York","White","2815767","pop",32.9
+2015,"New York","White","2018","stops",9.8
+2015,"Queens","Asian","606711","pop",25.9
+2015,"Queens","Asian","817","stops",14.4
+2015,"Queens","Black","412811","pop",17.6
+2015,"Queens","Black","2238","stops",39.3
+2015,"Queens","Hispanic","656,031","pop",28
+2015,"Queens","Hispanic","1736","stops",30.5
+2015,"Queens","Native American","4209","pop",0.2
+2015,"Queens","Native American","40","stops",0.7
+2015,"Queens","Other","45972","pop",2.1
+2015,"Queens","Other","67","stops",1.2
+2015,"Queens","White","613416","pop",26.2
+2015,"Queens","White","792","stops",13.9
+2015,"Staten Island","Asian","39933","pop",8.4
+2015,"Staten Island","Black","46075","pop",9.7
+2015,"Staten Island","Hispanic","86,737","pop",18.3
+2015,"Staten Island","Native American","369","pop",0.1
+2015,"Staten Island","Other","1282","pop",0.2
+2015,"Staten Island","White","300162","pop",63.3

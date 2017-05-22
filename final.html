@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.4/d3.min.js"></script>
+  <script type="text/javascript" src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <link rel ="stylesheet" href ="final.css" >
+</head>
+<body>
+
+<h1>Stop, Question, and Frisk program in New York City</h1>
+
+<div class="tab">
+  <button class="tablinks" onclick="openAnalysis(event, 'Introduction')" id="defaultOpen">Introduction</button>
+  <button class="tablinks" onclick="openAnalysis(event, 'RaceBased')">Race based Analysis</button>
+  <button class="tablinks" onclick="openAnalysis(event, 'Ressources')">Ressources</button>
+</div>
+
+<div id="Introduction" class="tabcontent">
+  <h3>Introduction</h3>
+  <p>This program empowered NY City police officers to stop, question, possibly frisk or search based an array of criterias, some highly subjective such as:
+    "carrying suspicious object", "casing a victim or a location", "acting as a lookout", "wearing clothes commonly used in crime", "furtive movements", ondurationchange, ondurationchange
+    "suspecious bulge", "fits a relevant description", "actions of engaging in a violent crime", "other"<br><br>
+    Law enforcement defend the program as a mean to reduce violent crimes and remove weapons off the street.  The argument is that on a stop/frisk/search, illegal weapons could be found and remove
+    which in turn would prevent violent crimes.<br><br>
+    Community activist protest that this program target minorities and is abusive.<br><br>
+    We are proposing exploring these statements.<br><br>
+  </p>
+  <div class="graph" id="g_year1" style="width: 480px; height: 400px;"></div>
+  <div class="graph" id="g_year2" style="width: 480px; height: 400px;"></div>
+</div>
+
+<div id="RaceBased" class="tabcontent">
+  <h3>Race based Analysis</h3>
+  <p>Are the stops unfairly targetting people of color?<br><br>
+    First graph represent percentage of stops by brokendown according to race<br>
+    along with the percentage this race is represented in the borroug for the given year.<br><br>
+
+    Positive Outcome is a stop that led to an arrest, summon, or a find of weapons, contraband police</p>
+
+  <div class="graph" id="g_year3" style="width: 680px; height: 300px;"></div>
+      <div class="control-row">
+        Year: <select class="yeardata">
+        </select>
+        Burrough: <select class="citydata">
+        </select>
+      </div>
+
+  <div class="graph" id="g_year4" style="width: 480px; height: 400px;"></div>
+</div>
+
+<div id="Ressources" class="tabcontent">
+  <h3>Ressources</h3>
+  <p>The data sets is open source and on NYC Open Data portal.<br><br>
+  <strong>Stop,Question, and Frisk Data:</strong><br></p>
+  <a href="http://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page">Stops, Question, and Frisk for NYC data</a>
+  <p><strong>New York City Population data:</strong><br></p>
+  <a href="http://www1.nyc.gov/site/planning/data-maps/nyc-population/american-community-survey.page">New York City population data</a>
+  <p><strong>Other links of Interrest:</strong><br></p>
+  <a href="https://en.wikipedia.org/wiki/Stop-and-frisk_in_New_York_City">Wikipidia:Stop-and-frisk in New York City</a><br><br>
+  <a href="https://www.nyclu.org/en/stop-and-frisk-data">NY Civil Liberty Union article</a>
+</div>
+
+<script>
+function openAnalysis(evt, analysisName) {
+    var i, tabcontent, tablinks;
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+    document.getElementById(analysisName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+</script>
+<script>
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+
+<script type="text/javascript" src="final.js"></script>
+</body>
+</html>

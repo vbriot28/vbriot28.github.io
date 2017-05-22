@@ -1,0 +1,361 @@
+year,city,race,cnt,type,percentage
+2006,New York,A,960429,pop,11.8
+2006,New York,B,1951814,pop,23.9
+2006,New York,H,2273051,pop,27.9
+2006,New York,I,13537,pop,0.2
+2006,New York,W,2861095,pop,35.1
+2006,New York,Z,89758,pop,1.1
+2006,Bronx,A,45494,pop,3.3
+2006,Bronx,B,426660,pop,31.1
+2006,Bronx,H,706167,pop,51.4
+2006,Bronx,I,738,pop,0.1
+2006,Bronx,W,178342,pop,13
+2006,Bronx,Z,16354,pop,1.1
+2006,Brooklyn,A,228085,pop,11.2
+2006,Brooklyn,B,853108,pop,41.9
+2006,Brooklyn,H,23742,pop,1.2
+2006,Brooklyn,I,4267,pop,0.2
+2006,Brooklyn,W,908477,pop,44.6
+2006,Brooklyn,Z,18579,pop,0.9
+2006,Manhattan,A,180256,pop,11.2
+2006,Manhattan,B,230600,pop,14.3
+2006,Manhattan,H,408712,pop,25.4
+2006,Manhattan,I,1482,pop,0.1
+2006,Manhattan,W,784662,pop,48.7
+2006,Manhattan,Z,5869,pop,0.3
+2006,Queens,A,482262,pop,21.4
+2006,Queens,B,419069,pop,18.6
+2006,Queens,H,597773,pop,26.5
+2006,Queens,I,6644,pop,0.3
+2006,Queens,W,701059,pop,31.1
+2006,Queens,Z,48368,pop,2.1
+2006,Staten Island,A,35768,pop,7.5
+2006,Staten Island,B,45572,pop,9.5
+2006,Staten Island,H,"71,154",pop,14.9
+2006,Staten Island,I,561,pop,0.1
+2006,Staten Island,W,322652,pop,67.6
+2006,Staten Island,Z,1671,pop,0.4
+2007,New York,A,984700,pop,11.9
+2007,New York,B,1977970,pop,23.9
+2007,New York,H,"2,269,972",pop,27.4
+2007,New York,I,18064,pop,0.2
+2007,New York,W,2947398,pop,35.6
+2007,New York,Z,76423,pop,1
+2007,Bronx,A,47829,pop,3.5
+2007,Bronx,B,430399,pop,31.3
+2007,Bronx,H,"702,073",pop,51.1
+2007,Bronx,I,3333,pop,0.2
+2007,Bronx,W,178470,pop,13
+2007,Bronx,Z,11555,pop,0.9
+2007,Brooklyn,A,229668,pop,9.1
+2007,Brooklyn,B,854281,pop,33.8
+2007,Brooklyn,H,"493,961",pop,19.5
+2007,Brooklyn,I,5012,pop,0.2
+2007,Brooklyn,W,929426,pop,36.8
+2007,Brooklyn,Z,15702,pop,0.6
+2007,Manhattan,A,177207,pop,10.9
+2007,Manhattan,B,225716,pop,13.9
+2007,Manhattan,H,"400,498",pop,24.7
+2007,Manhattan,I,1994,pop,0.1
+2007,Manhattan,W,805871,pop,49.7
+2007,Manhattan,Z,9580,pop,0.6
+2007,Queens,A,494201,pop,21.8
+2007,Queens,B,420665,pop,18.5
+2007,Queens,H,"600,467",pop,26.4
+2007,Queens,I,7080,pop,0.3
+2007,Queens,W,709001,pop,31.2
+2007,Queens,Z,38924,pop,1.8
+2007,Staten Island,A,36765,pop,7.6
+2007,Staten Island,B,46853,pop,9.7
+2007,Staten Island,H,"72,973",pop,15.2
+2007,Staten Island,I,661,pop,0.1
+2007,Staten Island,W,323573,pop,67.2
+2007,Staten Island,Z,789,pop,0.2
+2008,New York,A,1004467,pop,12
+2008,New York,B,1980953,pop,23.7
+2008,New York,H,"2,313,400",pop,27.7
+2008,New York,I,16571,pop,0.2
+2008,New York,W,2972268,pop,35.5
+2008,New York,Z,76051,pop,0.9
+2008,Bronx,A,46753,pop,3.4
+2008,Bronx,B,435116,pop,31.3
+2008,Bronx,H,"719,596",pop,51.7
+2008,Bronx,I,910,pop,0.1
+2008,Bronx,W,176252,pop,12.7
+2008,Bronx,Z,13277,pop,0.8
+2008,Brooklyn,A,238611,pop,9.3
+2008,Brooklyn,B,853500,pop,33.4
+2008,Brooklyn,H,"504,051",pop,19.7
+2008,Brooklyn,I,4809,pop,0.2
+2008,Brooklyn,W,942740,pop,36.9
+2008,Brooklyn,Z,12887,pop,0.5
+2008,Manhattan,A,179128,pop,11
+2008,Manhattan,B,223834,pop,13.7
+2008,Manhattan,H,"400,699",pop,24.5
+2008,Manhattan,I,1768,pop,0.1
+2008,Manhattan,W,823946,pop,50.4
+2008,Manhattan,Z,5420,pop,0.3
+2008,Queens,A,503052,pop,21.9
+2008,Queens,B,420768,pop,18.4
+2008,Queens,H,"612,873",pop,26.7
+2008,Queens,I,8598,pop,0.4
+2008,Queens,W,706274,pop,30.8
+2008,Queens,Z,41441,pop,1.8
+2008,Staten Island,A,37307,pop,7.7
+2008,Staten Island,B,46240,pop,9.5
+2008,Staten Island,H,"76,181",pop,15.6
+2008,Staten Island,I,480,pop,0.1
+2008,Staten Island,W,324193,pop,66.5
+2008,Staten Island,Z,3006,pop,0.6
+2009,New York,A,1018620,pop,12.1
+2009,New York,B,1966204,pop,23.4
+2009,New York,H,"2,315,041",pop,27.6
+2009,New York,I,14611,pop,0.2
+2009,New York,W,3014720,pop,35.9
+2009,New York,Z,62684,pop,0.8
+2009,Bronx,A,49029,pop,3.5
+2009,Bronx,B,437379,pop,31.3
+2009,Bronx,H,"726,265",pop,52
+2009,Bronx,I,2534,pop,0.2
+2009,Bronx,W,171208,pop,12.3
+2009,Bronx,Z,10873,pop,0.7
+2009,Brooklyn,A,247796,pop,9.7
+2009,Brooklyn,B,847275,pop,33
+2009,Brooklyn,H,"502,546",pop,19.6
+2009,Brooklyn,I,2366,pop,0.1
+2009,Brooklyn,W,959499,pop,37.4
+2009,Brooklyn,Z,7615,pop,0.2
+2009,Manhattan,A,171128,pop,10.5
+2009,Manhattan,B,216227,pop,13.3
+2009,Manhattan,H,"387,678",pop,23.8
+2009,Manhattan,I,1399,pop,0.1
+2009,Manhattan,W,845875,pop,51.9
+2009,Manhattan,Z,6747,pop,0.4
+2009,Queens,A,515370,pop,22.3
+2009,Queens,B,414587,pop,18
+2009,Queens,H,"620,205",pop,26.9
+2009,Queens,I,8181,pop,0.4
+2009,Queens,W,711446,pop,30.8
+2009,Queens,Z,36924,pop,1.6
+2009,Staten Island,A,36746,pop,7.5
+2009,Staten Island,B,47779,pop,9.7
+2009,Staten Island,H,"78,347",pop,15.9
+2009,Staten Island,I,152,pop,0
+2009,Staten Island,W,328065,pop,66.7
+2009,Staten Island,Z,641,pop,0.2
+2010,New York,A,1065885,pop,13
+2010,New York,B,1915781,pop,23.4
+2010,New York,H,"2,346,826",pop,28.7
+2010,New York,I,14044,pop,0.2
+2010,New York,W,2779867,pop,34
+2010,New York,Z,62497,pop,0.7
+2010,Bronx,A,47649,pop,3.4
+2010,Bronx,B,431980,pop,31.2
+2010,Bronx,H,"743,681",pop,53.6
+2010,Bronx,I,2736,pop,0.2
+2010,Bronx,W,155030,pop,11.2
+2010,Bronx,Z,5581,pop,0.4
+2010,Brooklyn,A,268010,pop,10.7
+2010,Brooklyn,B,821110,pop,32.7
+2010,Brooklyn,H,"499,418",pop,19.9
+2010,Brooklyn,I,4228,pop,0.2
+2010,Brooklyn,W,908204,pop,36.2
+2010,Brooklyn,Z,7370,pop,0.3
+2010,Manhattan,A,181927,pop,11.5
+2010,Manhattan,B,209673,pop,13.2
+2010,Manhattan,H,"405,499",pop,25.6
+2010,Manhattan,I,2151,pop,0.1
+2010,Manhattan,W,781347,pop,49.2
+2010,Manhattan,Z,6101,pop,0.4
+2010,Queens,A,533821,pop,23.9
+2010,Queens,B,405101,pop,18.1
+2010,Queens,H,"616,676",pop,27.6
+2010,Queens,I,4479,pop,0.2
+2010,Queens,W,630479,pop,28.2
+2010,Queens,Z,43285,pop,2
+2010,Staten Island,A,36986,pop,7.9
+2010,Staten Island,B,45489,pop,9.7
+2010,Staten Island,H,"81,552",pop,17.4
+2010,Staten Island,I,458,pop,0.1
+2010,Staten Island,W,304445,pop,64.8
+2010,Staten Island,Z,433,pop,0.1
+2011,New York,A,1071293,pop,13
+2011,New York,B,1926637,pop,23.4
+2011,New York,H,"2,373,304",pop,28.8
+2011,New York,I,15919,pop,0.2
+2011,New York,W,2794614,pop,33.9
+2011,New York,Z,63143,pop,0.7
+2011,Bronx,A,48190,pop,3.5
+2011,Bronx,B,425409,pop,30.6
+2011,Bronx,H,"748,438",pop,53.8
+2011,Bronx,I,3868,pop,0.3
+2011,Bronx,W,157458,pop,11.3
+2011,Bronx,Z,8639,pop,0.5
+2011,Brooklyn,A,272673,pop,10.8
+2011,Brooklyn,B,824979,pop,32.6
+2011,Brooklyn,H,"506,552",pop,20
+2011,Brooklyn,I,4887,pop,0.2
+2011,Brooklyn,W,915240,pop,36.1
+2011,Brooklyn,Z,8314,pop,0.3
+2011,Manhattan,A,180756,pop,11.3
+2011,Manhattan,B,215052,pop,13.4
+2011,Manhattan,H,"410,681",pop,25.6
+2011,Manhattan,I,2175,pop,0.1
+2011,Manhattan,W,784590,pop,49
+2011,Manhattan,Z,8694,pop,0.6
+2011,Queens,A,535309,pop,23.8
+2011,Queens,B,411556,pop,18.3
+2011,Queens,H,"625,016",pop,27.8
+2011,Queens,I,4849,pop,0.2
+2011,Queens,W,633773,pop,28.2
+2011,Queens,Z,37344,pop,1.7
+2011,Staten Island,A,37393,pop,7.9
+2011,Staten Island,B,47548,pop,10.1
+2011,Staten Island,H,"82,617",pop,17.6
+2011,Staten Island,I,156,pop,0
+2011,Staten Island,W,302300,pop,64.3
+2011,Staten Island,Z,453,pop,0.1
+2012,New York,A,1112835,pop,13.3
+2012,New York,B,1929102,pop,23.1
+2012,New York,H,"2,406,890",pop,28.9
+2012,New York,I,12999,pop,0.2
+2012,New York,W,2796253,pop,33.5
+2012,New York,Z,78616,pop,1
+2012,Bronx,A,51633,pop,3.7
+2012,Bronx,B,426853,pop,30.3
+2012,Bronx,H,"764,609",pop,54.3
+2012,Bronx,I,2063,pop,0.1
+2012,Bronx,W,151780,pop,10.8
+2012,Bronx,Z,11535,pop,0.8
+2012,Brooklyn,A,286030,pop,11.1
+2012,Brooklyn,B,829695,pop,32.3
+2012,Brooklyn,H,"507,552",pop,19.8
+2012,Brooklyn,I,3434,pop,0.1
+2012,Brooklyn,W,930891,pop,36.3
+2012,Brooklyn,Z,8033,pop,0.4
+2012,Manhattan,A,188161,pop,11.6
+2012,Manhattan,B,216984,pop,13.4
+2012,Manhattan,H,"417,471",pop,25.8
+2012,Manhattan,I,1679,pop,0.1
+2012,Manhattan,W,787020,pop,48.6
+2012,Manhattan,Z,7774,pop,0.5
+2012,Queens,A,553230,pop,24.3
+2012,Queens,B,406727,pop,17.9
+2012,Queens,H,"634,077",pop,27.9
+2012,Queens,I,5533,pop,0.2
+2012,Queens,W,623664,pop,27.4
+2012,Queens,Z,49540,pop,2.3
+2012,Staten Island,A,36896,pop,7.8
+2012,Staten Island,B,45803,pop,9.7
+2012,Staten Island,H,"83,181",pop,17.7
+2012,Staten Island,I,309,pop,0.1
+2012,Staten Island,W,302495,pop,64.3
+2012,Staten Island,Z,2045,pop,0.4
+2013,New York,A,1153555,pop,13.7
+2013,New York,B,1925855,pop,22.9
+2013,New York,H,"2,428,756",pop,28.9
+2013,New York,I,17577,pop,0.2
+2013,New York,W,2802189,pop,33.3
+2013,New York,Z,77904,pop,1
+2013,Bronx,A,53119,pop,3.7
+2013,Bronx,B,428696,pop,30.2
+2013,Bronx,H,"774,778",pop,54.6
+2013,Bronx,I,3412,pop,0.2
+2013,Bronx,W,150170,pop,10.6
+2013,Bronx,Z,8557,pop,0.7
+2013,Brooklyn,A,297736,pop,11.5
+2013,Brooklyn,B,826330,pop,31.9
+2013,Brooklyn,H,"507,880",pop,19.6
+2013,Brooklyn,I,5635,pop,0.2
+2013,Brooklyn,W,941757,pop,36.3
+2013,Brooklyn,Z,12812,pop,0.5
+2013,Manhattan,A,191620,pop,11.8
+2013,Manhattan,B,214041,pop,13.2
+2013,Manhattan,H,"419,398",pop,25.8
+2013,Manhattan,I,2598,pop,0.2
+2013,Manhattan,W,787180,pop,48.4
+2013,Manhattan,Z,11322,pop,0.6
+2013,Queens,A,576164,pop,25.1
+2013,Queens,B,409352,pop,17.9
+2013,Queens,H,"642,259",pop,28
+2013,Queens,I,1050,pop,0
+2013,Queens,W,621204,pop,27.1
+2013,Queens,Z,42230,pop,1.9
+2013,Staten Island,A,37755,pop,8
+2013,Staten Island,B,46572,pop,9.9
+2013,Staten Island,H,"84,441",pop,17.9
+2013,Staten Island,I,858,pop,0.2
+2013,Staten Island,W,301344,pop,63.8
+2013,Staten Island,Z,1650,pop,0.2
+2014,New York,A,1194652,pop,14.1
+2014,New York,B,1939522,pop,22.8
+2014,New York,H,"2,460,898",pop,29
+2014,New York,I,15807,pop,0.2
+2014,New York,W,2808241,pop,33.1
+2014,New York,Z,71959,pop,0.8
+2014,Bronx,A,55207,pop,3.8
+2014,Bronx,B,432033,pop,30
+2014,Bronx,H,"788,575",pop,54.8
+2014,Bronx,I,4313,pop,0.3
+2014,Bronx,W,148460,pop,10.3
+2014,Bronx,Z,9572,pop,0.8
+2014,Brooklyn,A,313714,pop,12
+2014,Brooklyn,B,831057,pop,31.7
+2014,Brooklyn,H,"512,181",pop,19.5
+2014,Brooklyn,I,3595,pop,0.1
+2014,Brooklyn,W,951463,pop,36.3
+2014,Brooklyn,Z,9978,pop,0.4
+2014,Manhattan,A,197674,pop,11.5
+2014,Manhattan,B,212342,pop,12.3
+2014,Manhattan,H,"512,181",pop,29.7
+2014,Manhattan,I,1956,pop,0.1
+2014,Manhattan,W,792458,pop,45.9
+2014,Manhattan,Z,8137,pop,0.5
+2014,Queens,A,591668,pop,27.1
+2014,Queens,B,415196,pop,19
+2014,Queens,H,"512,181",pop,23.4
+2014,Queens,I,5213,pop,0.2
+2014,Queens,W,614929,pop,28.1
+2014,Queens,Z,45323,pop,2.2
+2014,Staten Island,A,38431,pop,8.1
+2014,Staten Island,B,44118,pop,9.3
+2014,Staten Island,H,"85,603",pop,18.1
+2014,Staten Island,I,712,pop,0.2
+2014,Staten Island,W,303665,pop,64.2
+2014,Staten Island,Z,731,pop,0.1
+2015,New York,A,1230462,pop,14.4
+2015,New York,B,1931653,pop,22.6
+2015,New York,H,"2,485,125",pop,29.1
+2015,New York,I,14184,pop,0.2
+2015,New York,W,2815767,pop,32.9
+2015,New York,Z,73215,pop,0.8
+2015,Bronx,A,54065,pop,3.7
+2015,Bronx,B,438834,pop,30.2
+2015,Bronx,H,"802,221",pop,55.1
+2015,Bronx,I,3054,pop,0.2
+2015,Bronx,W,149363,pop,10.3
+2015,Bronx,Z,7907,pop,0.5
+2015,Brooklyn,A,324479,pop,12.3
+2015,Brooklyn,B,818897,pop,31.1
+2015,Brooklyn,H,"513,242",pop,19.5
+2015,Brooklyn,I,4898,pop,0.2
+2015,Brooklyn,W,962218,pop,36.5
+2015,Brooklyn,Z,13001,pop,0.4
+2015,Manhattan,A,206859,pop,12.6
+2015,Manhattan,B,213470,pop,13
+2015,Manhattan,H,"426,894",pop,26
+2015,Manhattan,I,1653,pop,0.1
+2015,Manhattan,W,790453,pop,48.1
+2015,Manhattan,Z,5189,pop,0.2
+2015,Queens,A,606711,pop,25.9
+2015,Queens,B,412811,pop,17.6
+2015,Queens,H,"656,031",pop,28
+2015,Queens,I,4209,pop,0.2
+2015,Queens,W,613416,pop,26.2
+2015,Queens,Z,45972,pop,2.1
+2015,Staten Island,A,39933,pop,8.4
+2015,Staten Island,B,46075,pop,9.7
+2015,Staten Island,H,"86,737",pop,18.3
+2015,Staten Island,I,369,pop,0.1
+2015,Staten Island,W,300162,pop,63.3
+2015,Staten Island,Z,1282,pop,0.2

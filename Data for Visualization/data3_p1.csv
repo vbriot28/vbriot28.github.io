@@ -1,0 +1,301 @@
+"year","city","race","cnt_stops","perc_stops","cnt_pop","perc_pop"
+2006,"Bronx","Asian",309,0.4,3.3,3.3
+2006,"Bronx","Black",36172,47.7,31.1,31.1
+2006,"Bronx","Hispanic",32492,42.8,51.4,51.4
+2006,"Bronx","Native American",129,0.2,0.1,0.1
+2006,"Bronx","White",2761,3.6,13,13
+2006,"Bronx","Other",3976,5.2,1.1,1.1
+2006,"Brooklyn","Asian",2200,1.2,11.2,11.2
+2006,"Brooklyn","Black",112816,64.1,41.9,41.9
+2006,"Brooklyn","Hispanic",35141,20,1.2,1.2
+2006,"Brooklyn","Native American",434,0.2,0.2,0.2
+2006,"Brooklyn","White",17972,10.2,44.6,44.6
+2006,"Brooklyn","Other",7513,4.3,0.9,0.9
+2006,"Manhattan","Asian",2080,1.7,11.2,11.2
+2006,"Manhattan","Black",62889,52.2,14.3,14.3
+2006,"Manhattan","Hispanic",38587,32,25.4,25.4
+2006,"Manhattan","Native American",213,0.2,0.1,0.1
+2006,"Manhattan","White",10405,8.6,48.7,48.7
+2006,"Manhattan","Other",6390,5.3,0.3,0.3
+2006,"Queens","Asian",8699,7.6,21.4,21.4
+2006,"Queens","Black",48844,42.5,18.6,18.6
+2006,"Queens","Hispanic",38332,33.3,26.5,26.5
+2006,"Queens","Native American",1042,0.9,0.3,0.3
+2006,"Queens","White",13886,12.1,31.1,31.1
+2006,"Queens","Other",4189,3.6,2.1,2.1
+2007,"Bronx","Asian",366,0.5,3.5,3.5
+2007,"Bronx","Black",33532,47.3,31.3,31.3
+2007,"Bronx","Hispanic",30020,42.3,51.1,51.1
+2007,"Bronx","Native American",162,0.2,0.2,0.2
+2007,"Bronx","White",2991,4.2,13,13
+2007,"Bronx","Other",3865,5.4,0.9,0.9
+2007,"Brooklyn","Asian",2033,1.3,9.1,9.1
+2007,"Brooklyn","Black",106309,65.4,33.8,33.8
+2007,"Brooklyn","Hispanic",31924,19.6,19.5,19.5
+2007,"Brooklyn","Native American",383,0.2,0.2,0.2
+2007,"Brooklyn","White",15938,9.8,36.8,36.8
+2007,"Brooklyn","Other",6033,3.7,0.6,0.6
+2007,"Manhattan","Asian",2191,1.9,10.9,10.9
+2007,"Manhattan","Black",57240,49,13.9,13.9
+2007,"Manhattan","Hispanic",40694,34.9,24.7,24.7
+2007,"Manhattan","Native American",286,0.2,0.1,0.1
+2007,"Manhattan","White",10973,9.4,49.7,49.7
+2007,"Manhattan","Other",5324,4.6,0.6,0.6
+2007,"Queens","Asian",8311,8.3,21.8,21.8
+2007,"Queens","Black",40232,40,18.5,18.5
+2007,"Queens","Hispanic",35393,35.1,26.4,26.4
+2007,"Queens","Native American",866,0.9,0.3,0.3
+2007,"Queens","White",13554,13.5,31.2,31.2
+2007,"Queens","Other",2345,2.3,1.8,1.8
+2008,"Bronx","Asian",596,0.7,3.4,3.4
+2008,"Bronx","Black",39318,46.6,31.3,31.3
+2008,"Bronx","Hispanic",36812,43.6,51.7,51.7
+2008,"Bronx","Native American",210,0.2,0.1,0.1
+2008,"Bronx","White",2600,3.1,12.7,12.7
+2008,"Bronx","Other",4863,5.8,0.8,0.8
+2008,"Brooklyn","Asian",2661,1.4,9.3,9.3
+2008,"Brooklyn","Black",119622,64.3,33.4,33.4
+2008,"Brooklyn","Hispanic",41188,22.1,19.7,19.7
+2008,"Brooklyn","Native American",479,0.3,0.2,0.2
+2008,"Brooklyn","White",16848,9.1,36.9,36.9
+2008,"Brooklyn","Other",5219,2.8,0.5,0.5
+2008,"Manhattan","Asian",2629,2.2,11,11
+2008,"Manhattan","Black",60601,51.3,13.7,13.7
+2008,"Manhattan","Hispanic",39755,33.7,24.5,24.5
+2008,"Manhattan","Native American",297,0.3,0.1,0.1
+2008,"Manhattan","White",11214,9.5,50.4,50.4
+2008,"Manhattan","Other",3565,3,0.3,0.3
+2008,"Queens","Asian",10135,8.7,21.9,21.9
+2008,"Queens","Black",44746,38.5,18.4,18.4
+2008,"Queens","Hispanic",44256,38.1,26.7,26.7
+2008,"Queens","Native American",938,0.8,0.4,0.4
+2008,"Queens","White",13729,11.8,30.8,30.8
+2008,"Queens","Other",2388,2.1,1.8,1.8
+2009,"Bronx","Asian",691,0.7,3.5,3.5
+2009,"Bronx","Black",45072,47,31.3,31.3
+2009,"Bronx","Hispanic",42041,43.9,52,52
+2009,"Bronx","Native American",258,0.3,0.2,0.2
+2009,"Bronx","White",3094,3.2,12.3,12.3
+2009,"Bronx","Other",4708,4.9,0.7,0.7
+2009,"Brooklyn","Asian",2898,1.4,9.7,9.7
+2009,"Brooklyn","Black",140617,68,33,33
+2009,"Brooklyn","Hispanic",41836,20.2,19.6,19.6
+2009,"Brooklyn","Native American",587,0.3,0.1,0.1
+2009,"Brooklyn","White",16702,8.1,37.4,37.4
+2009,"Brooklyn","Other",4010,1.9,0.2,0.2
+2009,"Manhattan","Asian",2214,1.9,10.5,10.5
+2009,"Manhattan","Black",61667,53.6,13.3,13.3
+2009,"Manhattan","Hispanic",38824,33.8,23.8,23.8
+2009,"Manhattan","Native American",252,0.2,0.1,0.1
+2009,"Manhattan","White",9472,8.2,51.9,51.9
+2009,"Manhattan","Other",2582,2.2,0.4,0.4
+2009,"Queens","Asian",10650,8.1,22.3,22.3
+2009,"Queens","Black",50257,38.4,18,18
+2009,"Queens","Hispanic",50870,38.9,26.9,26.9
+2009,"Queens","Native American",1084,0.8,0.4,0.4
+2009,"Queens","White",15210,11.6,30.8,30.8
+2009,"Queens","Other",2726,2.1,1.6,1.6
+2010,"Bronx","Asian",820,0.7,3.4,3.4
+2010,"Bronx","Black",53987,48.3,31.2,31.2
+2010,"Bronx","Hispanic",48226,43.1,53.6,53.6
+2010,"Bronx","Native American",274,0.2,0.2,0.2
+2010,"Bronx","White",3303,3,11.2,11.2
+2010,"Bronx","Other",5201,4.7,0.4,0.4
+2010,"Brooklyn","Asian",3487,1.8,10.7,10.7
+2010,"Brooklyn","Black",129397,66.7,32.7,32.7
+2010,"Brooklyn","Hispanic",41103,21.2,19.9,19.9
+2010,"Brooklyn","Native American",495,0.3,0.2,0.2
+2010,"Brooklyn","White",16650,8.6,36.2,36.2
+2010,"Brooklyn","Other",2814,1.5,0.3,0.3
+2010,"Manhattan","Asian",2515,2.1,11.5,11.5
+2010,"Manhattan","Black",64453,53.2,13.2,13.2
+2010,"Manhattan","Hispanic",39022,32.2,25.6,25.6
+2010,"Manhattan","Native American",329,0.3,0.1,0.1
+2010,"Manhattan","White",11377,9.4,49.2,49.2
+2010,"Manhattan","Other",3412,2.8,0.4,0.4
+2010,"Queens","Asian",12566,8.8,23.9,23.9
+2010,"Queens","Black",55821,39.1,18.1,18.1
+2010,"Queens","Hispanic",55060,38.5,27.6,27.6
+2010,"Queens","Native American",1391,1,0.2,0.2
+2010,"Queens","White",14748,10.3,28.2,28.2
+2010,"Queens","Other",3324,2.3,2,2
+2011,"Bronx","Asian",1125,0.8,3.5,3.5
+2011,"Bronx","Black",64232,47.7,30.6,30.6
+2011,"Bronx","Hispanic",60636,45,53.8,53.8
+2011,"Bronx","Native American",340,0.3,0.3,0.3
+2011,"Bronx","White",4090,3,11.3,11.3
+2011,"Bronx","Other",4187,3.1,0.5,0.5
+2011,"Brooklyn","Asian",4652,2.1,10.8,10.8
+2011,"Brooklyn","Black",143307,63.2,32.6,32.6
+2011,"Brooklyn","Hispanic",53370,23.5,20,20
+2011,"Brooklyn","Native American",778,0.3,0.2,0.2
+2011,"Brooklyn","White",19460,8.6,36.1,36.1
+2011,"Brooklyn","Other",5125,2.3,0.3,0.3
+2011,"Manhattan","Asian",3152,2.3,11.3,11.3
+2011,"Manhattan","Black",71875,51.4,13.4,13.4
+2011,"Manhattan","Hispanic",46956,33.6,25.6,25.6
+2011,"Manhattan","Native American",418,0.3,0.1,0.1
+2011,"Manhattan","White",13553,9.7,49,49
+2011,"Manhattan","Other",3935,2.8,0.6,0.6
+2011,"Queens","Asian",14595,9.7,23.8,23.8
+2011,"Queens","Black",61167,40.5,18.3,18.3
+2011,"Queens","Hispanic",56763,37.6,27.8,27.8
+2011,"Queens","Native American",1244,0.8,0.2,0.2
+2011,"Queens","White",14265,9.4,28.2,28.2
+2011,"Queens","Other",3015,2,1.7,1.7
+2012,"Bronx","Asian",839,0.8,3.7,3.7
+2012,"Bronx","Black",49559,48.9,30.3,30.3
+2012,"Bronx","Hispanic",44907,44.3,54.3,54.3
+2012,"Bronx","Native American",324,0.3,0.1,0.1
+2012,"Bronx","White",3349,3.3,10.8,10.8
+2012,"Bronx","Other",2306,2.3,0.8,0.8
+2012,"Brooklyn","Asian",3724,2,11.1,11.1
+2012,"Brooklyn","Black",121730,64.9,32.3,32.3
+2012,"Brooklyn","Hispanic",39958,21.3,19.8,19.8
+2012,"Brooklyn","Native American",592,0.3,0.1,0.1
+2012,"Brooklyn","White",18192,9.7,36.3,36.3
+2012,"Brooklyn","Other",3425,1.8,0.4,0.4
+2012,"Manhattan","Asian",2488,2.3,11.6,11.6
+2012,"Manhattan","Black",57134,52.2,13.4,13.4
+2012,"Manhattan","Hispanic",36274,33.1,25.8,25.8
+2012,"Manhattan","Native American",327,0.3,0.1,0.1
+2012,"Manhattan","White",10763,9.8,48.6,48.6
+2012,"Manhattan","Other",2551,2.3,0.5,0.5
+2012,"Queens","Asian",9692,8.8,24.3,24.3
+2012,"Queens","Black",47590,43.3,17.9,17.9
+2012,"Queens","Hispanic",39692,36.1,27.9,27.9
+2012,"Queens","Native American",939,0.9,0.2,0.2
+2012,"Queens","White",10738,9.8,27.4,27.4
+2012,"Queens","Other",1378,1.3,2.3,2.3
+2013,"Bronx","Asian",227,0.9,3.7,3.7
+2013,"Bronx","Black",13129,52.1,30.2,30.2
+2013,"Bronx","Hispanic",10404,41.3,54.6,54.6
+2013,"Bronx","Native American",75,0.3,0.2,0.2
+2013,"Bronx","White",923,3.7,10.6,10.6
+2013,"Bronx","Other",450,1.8,0.7,0.7
+2013,"Brooklyn","Asian",1877,2.6,11.5,11.5
+2013,"Brooklyn","Black",45299,62.9,31.9,31.9
+2013,"Brooklyn","Hispanic",15070,20.9,19.6,19.6
+2013,"Brooklyn","Native American",249,0.3,0.2,0.2
+2013,"Brooklyn","White",8416,11.7,36.3,36.3
+2013,"Brooklyn","Other",1056,1.5,0.5,0.5
+2013,"Manhattan","Asian",795,2,11.8,11.8
+2013,"Manhattan","Black",19556,49.2,13.2,13.2
+2013,"Manhattan","Hispanic",14584,36.7,25.8,25.8
+2013,"Manhattan","Native American",123,0.3,0.2,0.2
+2013,"Manhattan","White",3908,9.8,48.4,48.4
+2013,"Manhattan","Other",799,2,0.6,0.6
+2013,"Queens","Asian",3849,8.5,25.1,25.1
+2013,"Queens","Black",22809,50.5,17.9,17.9
+2013,"Queens","Hispanic",13169,29.2,28,28
+2013,"Queens","Native American",351,0.8,0,0
+2013,"Queens","White",4519,10,27.1,27.1
+2013,"Queens","Other",448,1,1.9,1.9
+2014,"Bronx","Asian",41,0.6,3.8,3.8
+2014,"Bronx","Black",3305,48.6,30,30
+2014,"Bronx","Hispanic",3072,45.2,54.8,54.8
+2014,"Bronx","Native American",16,0.2,0.3,0.3
+2014,"Bronx","White",209,3.1,10.3,10.3
+2014,"Bronx","Other",154,2.3,0.8,0.8
+2014,"Brooklyn","Asian",339,2.6,12,12
+2014,"Brooklyn","Black",8886,67,31.7,31.7
+2014,"Brooklyn","Hispanic",2574,19.4,19.5,19.5
+2014,"Brooklyn","Native American",23,0.2,0.1,0.1
+2014,"Brooklyn","White",1274,9.6,36.3,36.3
+2014,"Brooklyn","Other",167,1.3,0.4,0.4
+2014,"Manhattan","Asian",148,2.1,11.5,11.5
+2014,"Manhattan","Black",3617,50.3,12.3,12.3
+2014,"Manhattan","Hispanic",2342,32.6,29.7,29.7
+2014,"Manhattan","Native American",14,0.2,0.1,0.1
+2014,"Manhattan","White",823,11.5,45.9,45.9
+2014,"Manhattan","Other",243,3.4,0.5,0.5
+2014,"Queens","Asian",1677,12.6,27.1,27.1
+2014,"Queens","Black",5941,44.8,19,19
+2014,"Queens","Hispanic",3578,27,23.4,23.4
+2014,"Queens","Native American",122,0.9,0.2,0.2
+2014,"Queens","White",1826,13.8,28.1,28.1
+2014,"Queens","Other",116,0.9,2.2,2.2
+2015,"Bronx","Asian",21,0.4,3.7,3.7
+2015,"Bronx","Black",2423,51.2,30.2,30.2
+2015,"Bronx","Hispanic",1993,42.1,55.1,55.1
+2015,"Bronx","Native American",12,0.3,0.2,0.2
+2015,"Bronx","White",203,4.3,10.3,10.3
+2015,"Bronx","Other",79,1.7,0.5,0.5
+2015,"Brooklyn","Asian",158,2.5,12.3,12.3
+2015,"Brooklyn","Black",4220,66.7,31.1,31.1
+2015,"Brooklyn","Hispanic",1224,19.3,19.5,19.5
+2015,"Brooklyn","Native American",10,0.2,0.2,0.2
+2015,"Brooklyn","White",624,9.9,36.5,36.5
+2015,"Brooklyn","Other",92,1.5,0.4,0.4
+2015,"Manhattan","Asian",81,2.1,12.6,12.6
+2015,"Manhattan","Black",2170,55.7,13,13
+2015,"Manhattan","Hispanic",1190,30.5,26,26
+2015,"Manhattan","Native American",11,0.3,0.1,0.1
+2015,"Manhattan","White",399,10.2,48.1,48.1
+2015,"Manhattan","Other",47,1.2,0.2,0.2
+2015,"Queens","Asian",817,14.4,25.9,25.9
+2015,"Queens","Black",2238,39.3,17.6,17.6
+2015,"Queens","Hispanic",1736,30.5,28,28
+2015,"Queens","Native American",40,0.7,0.2,0.2
+2015,"Queens","White",792,13.9,26.2,26.2
+2015,"Queens","Other",67,1.2,2.1,2.1
+2006,"New York","Asian",13288,2.7,11.8,11.8
+2006,"New York","Black",260721,53.5,23.9,23.9
+2006,"New York","Hispanic",144552,29.7,27.9,27.9
+2006,"New York","Native American",1818,0.4,0.2,0.2
+2006,"New York","White",45024,9.2,35.1,35.1
+2006,"New York","Other",22068,4.5,1.1,1.1
+2007,"New York","Asian",12901,2.9,11.9,11.9
+2007,"New York","Black",237313,52.6,23.9,23.9
+2007,"New York","Hispanic",138031,30.6,27.4,27.4
+2007,"New York","Native American",1697,0.4,0.2,0.2
+2007,"New York","White",43456,9.6,35.6,35.6
+2007,"New York","Other",17567,3.9,1,1
+2008,"New York","Asian",16021,3.2,12,12
+2008,"New York","Black",264287,52.4,23.7,23.7
+2008,"New York","Hispanic",162011,32.1,27.7,27.7
+2008,"New York","Native American",1924,0.4,0.2,0.2
+2008,"New York","White",44391,8.8,35.5,35.5
+2008,"New York","Other",16035,3.2,0.9,0.9
+2009,"New York","Asian",16453,3,12.1,12.1
+2009,"New York","Black",297613,54.3,23.4,23.4
+2009,"New York","Hispanic",173571,31.7,27.6,27.6
+2009,"New York","Native American",2181,0.4,0.2,0.2
+2009,"New York","White",44478,8.1,35.9,35.9
+2009,"New York","Other",14026,2.6,0.8,0.8
+2010,"New York","Asian",19388,3.4,13,13
+2010,"New York","Black",303658,53.3,23.4,23.4
+2010,"New York","Hispanic",183411,32.2,28.7,28.7
+2010,"New York","Native American",2489,0.4,0.2,0.2
+2010,"New York","White",46078,8.1,34,34
+2010,"New York","Other",14751,2.6,0.7,0.7
+2011,"New York","Asian",23524,3.6,13,13
+2011,"New York","Black",340581,52.2,23.4,23.4
+2011,"New York","Hispanic",217725,33.4,28.8,28.8
+2011,"New York","Native American",2780,0.4,0.2,0.2
+2011,"New York","White",51368,7.9,33.9,33.9
+2011,"New York","Other",16262,2.5,0.7,0.7
+2012,"New York","Asian",16743,3.3,13.3,13.3
+2012,"New York","Black",276013,54.3,23.1,23.1
+2012,"New York","Hispanic",160831,31.6,28.9,28.9
+2012,"New York","Native American",2182,0.4,0.2,0.2
+2012,"New York","White",43042,8.5,33.5,33.5
+2012,"New York","Other",9660,1.9,1,1
+2013,"New York","Asian",6748,3.7,13.7,13.7
+2013,"New York","Black",100793,55.4,22.9,22.9
+2013,"New York","Hispanic",53227,29.2,28.9,28.9
+2013,"New York","Native American",798,0.4,0.2,0.2
+2013,"New York","White",17766,9.8,33.3,33.3
+2013,"New York","Other",2753,1.5,1,1
+2014,"New York","Asian",2205,5.4,14.1,14.1
+2014,"New York","Black",21749,53.7,22.8,22.8
+2014,"New York","Hispanic",11566,28.6,29,29
+2014,"New York","Native American",175,0.4,0.2,0.2
+2014,"New York","White",4132,10.2,33.1,33.1
+2014,"New York","Other",680,1.7,0.8,0.8
+2015,"New York","Asian",1077,5.2,14.4,14.4
+2015,"New York","Black",11051,53.5,22.6,22.6
+2015,"New York","Hispanic",6143,29.8,29.1,29.1
+2015,"New York","Native American",73,0.4,0.2,0.2
+2015,"New York","White",2018,9.8,32.9,32.9
+2015,"New York","Other",285,1.4,0.8,0.8
